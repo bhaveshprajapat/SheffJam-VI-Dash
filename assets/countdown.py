@@ -6,7 +6,7 @@ from datetime import datetime, date, time, timedelta
 end = sys.argv[1]
 end = datetime.strptime(end.strip(), "%d/%m/%y %H:%M:%S")
 
-f = Figlet(font="assets/shefjam.flf", width=100)
+f = Figlet(font="shefjam", width=100)
 
 while True:
     now = datetime.now()
