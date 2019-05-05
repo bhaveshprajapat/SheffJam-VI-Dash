@@ -1,6 +1,8 @@
 ShefJam VI Dashboard
 =====================
 
+This Dashboard was not completed or used for SheffJam VI. Reasons for this include difficulty of coding, set-up, maintenance and updating the dashbaord. [See the SheffJam Dashboard we actually used here](https://github.com/bhaveshprajapat/SheffJam-VI-Dashboard)
+
 This is a collection of scripts to form a dashboard for game jams when used with tmux or screen.
 
 All scripts and fonts etc stored in `assets/`.
